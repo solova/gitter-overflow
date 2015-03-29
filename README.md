@@ -6,7 +6,7 @@
 з використанням можливостей [IcedCoffeeScript](https://github.com/maxtaco/coffee-script/)
 Ядро боту дозволяє створювати плагіни, що реагують на повідомлення користувачів чату.
 
-Для взаємодії з [gitter.im](https://gitter.im) використовується бібліотека [https://github.com/gitterHQ/node-gitter](node-gitter)
+Для взаємодії з [gitter.im](https://gitter.im) використовується бібліотека [node-gitter](https://github.com/gitterHQ/node-gitter).
 
 ## Запуск
 
