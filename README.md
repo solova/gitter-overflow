@@ -1,7 +1,7 @@
 # Gitter Overflow
 
-**GitterOverflow** це бот для [gitter.im](https://gitter.im),
-що написано для участі в [UaWebChallenge](http://uawebchallenge.com)
+**GitterOverflow** - це бот для [gitter.im](https://gitter.im),
+що було написано для участі в [UaWebChallenge](http://uawebchallenge.com)
 на мові [Literate CoffeeScript](http://coffeescript.org/#literate).
 з використанням можливостей [IcedCoffeeScript](https://github.com/maxtaco/coffee-script/)
 Ядро боту дозволяє створювати плагіни, що реагують на повідомлення користувачів чату.
